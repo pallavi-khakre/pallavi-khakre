@@ -9,3 +9,4 @@ pallavi-khakre/pallavi-khakre is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 These is my first practical
+I will try to demonstrate the send email to friend from github
